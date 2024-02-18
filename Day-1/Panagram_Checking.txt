@@ -1,3 +1,6 @@
+POTD question from GFG PLATFORM
+
+
 class Solution {
    
     public static boolean checkPangram(String s) {
